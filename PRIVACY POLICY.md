@@ -1,4 +1,5 @@
 Introduction
+
 Bimo is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application and services that connect employers with caregivers and domestic workers.
 Information We Collect
 Personal Information
