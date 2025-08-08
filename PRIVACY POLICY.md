@@ -1,0 +1,99 @@
+Introduction
+Bimo is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application and services that connect employers with caregivers and domestic workers.
+Information We Collect
+Personal Information
+We collect the following types of personal information:
+
+Account Information:
+
+Full name
+Email address
+Phone number
+Profile picture
+Account type (employer or worker)
+
+Professional Information:
+
+Work experience and qualifications
+Skills and certifications
+Employment preferences
+Reviews and ratings
+
+Financial Information:
+
+Bank account details (for payment processing)
+Billing information
+
+Location Data:
+
+Device location (with your permission)
+Work location preferences
+
+Identity Verification:
+
+Government-issued ID documents
+References and contact information
+How We Use Your Information
+We use your information to:
+
+Facilitate Employment Matching: Connect employers with suitable caregivers and domestic workers
+Process Payments: Handle secure transactions between employers and workers
+Staff Management: Enable employers to track and manage their existing staff
+Communication: Send notifications, updates, and important service information
+Safety and Security: Verify identities and conduct background checks when necessary
+Location Services: Show nearby job opportunities and workers
+Customer Support: Provide assistance and resolve issues
+Legal Compliance: Meet regulatory requirements and legal obligations
+Information Sharing and Disclosure
+We may share your information with:
+Other Users:
+
+Employers can view worker profiles, qualifications, and reviews
+Workers can view employer information and job details
+Contact information is shared only after mutual agreement
+
+Service Providers:
+
+Payment processors for financial transactions
+Background check companies (with consent)
+Cloud storage and hosting services
+Customer support platforms
+
+Legal Requirements:
+
+When required by law or legal process
+To protect rights, property, or safety of users
+In case of business transfer or merger
+Data Security
+We implement appropriate security measures including:
+
+Secure payment processing
+Regular security audits
+Access controls and authentication
+Secure data storage practices
+Your Rights and Choices
+You have the right to:
+
+Access your personal information
+Update or correct your data
+Delete your account and data
+Opt out of non-essential communications
+Control location sharing settings
+Request data portability
+Data Retention
+We retain your information for as long as:
+
+Your account remains active
+Necessary to provide services
+Required by law or for legal purposes
+Needed to resolve disputes
+Children's Privacy
+Bimo is not intended for users under 18 years of age. We do not knowingly collect personal information from children under 18.
+Updates to This Policy
+We may update this Privacy Policy periodically. We will notify you of significant changes through the app or via email.
+Contact Information
+For questions about this Privacy Policy or your data, contact us at:
+
+Email: info@bimojobs.com 
+
+By using Bimo, you acknowledge that you have read and understood this Privacy Policy
